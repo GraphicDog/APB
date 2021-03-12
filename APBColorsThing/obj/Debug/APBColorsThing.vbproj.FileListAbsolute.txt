@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\APBColorsThing\bin\Debug\APBColorsThing.exe.config
+C:\Users\Admin\source\repos\APBColorsThing\bin\Debug\APBColorsThing.exe
+C:\Users\Admin\source\repos\APBColorsThing\bin\Debug\APBColorsThing.pdb
+C:\Users\Admin\source\repos\APBColorsThing\bin\Debug\APBColorsThing.xml
+C:\Users\Admin\source\repos\APBColorsThing\obj\Debug\APBColorsThing.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\APBColorsThing\obj\Debug\APBColorsThing.Form1.resources
+C:\Users\Admin\source\repos\APBColorsThing\obj\Debug\APBColorsThing.Resources.resources
+C:\Users\Admin\source\repos\APBColorsThing\obj\Debug\APBColorsThing.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\APBColorsThing\obj\Debug\APBColorsThing.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\APBColorsThing\obj\Debug\APBColorsThing.exe
+C:\Users\Admin\source\repos\APBColorsThing\obj\Debug\APBColorsThing.xml
+C:\Users\Admin\source\repos\APBColorsThing\obj\Debug\APBColorsThing.pdb
